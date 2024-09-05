@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "imageurl": "https://images.pexels.com/photos/1148955/pexels-photo-1148955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Accent ArmChair",
+      "description": "Stylish, comfortable accent armchair: durable, versatile, elegant, and easy maintenance."
+    },
+    {
+      "id": "5b96",
+      "imageurl": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "name": "Black Fabric Sectional Sofa",
+      "description": " Elegant black fabric sectional sofa: spacious, stylish, comfortable, durable, and perfect for modern living spaces."
+    }
+  ]
+}

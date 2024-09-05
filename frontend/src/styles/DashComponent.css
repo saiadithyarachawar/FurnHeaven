@@ -1,0 +1,86 @@
+.cardgroup
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.headertag
+{
+    width:100%;
+    display: flex;
+    align-items:flex-start;
+	margin-top:3px;
+}
+.tagpro
+{
+    font-family: "Mrs Eaves XL Serif", serif;
+}
+.pricetag
+{
+    font-size: 1.6rem;
+}
+.name
+{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.card
+{
+    width: 18rem;
+    margin-top: 2rem;
+    margin-left: 3.5rem;
+
+}
+.btns
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 23px;
+}
+.decorator
+{
+    width:100%;
+}
+.btntext
+{
+    color: white;
+}
+.logoutbtn
+{
+    border: none;
+    background: none;
+}
+.cartbtn
+{
+        display: block;
+        width: 45%;
+        padding: 8px;
+        background-color: #C73659;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+}
+.buybtn
+{
+        display: block;
+        width: 40%;
+        padding: 8px;
+        background-color: #C73659;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+}
+.buybtn:hover
+{
+
+    background-color: #A91D3A;
+
+}
+.cartbtn:hover
+{
+
+    background-color: #A91D3A;
+
+}

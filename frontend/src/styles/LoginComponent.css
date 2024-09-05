@@ -1,0 +1,60 @@
+#loginBox {
+    width: 400px;
+    height: 330px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#loginBox input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#loginBox input[type="email"] {
+    margin-bottom: 13px;
+}
+
+#loginBox input[type="password"] {
+    margin-bottom: 20px;
+}
+
+#loginBox a {
+    display: block;
+    text-align: center;
+    color: #C73659;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+#loginBox button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    background-color: #C73659;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#loginBox img {
+    margin-left: 155px;
+    margin-bottom: 10px;
+    height: 75px;
+    width: 75px;
+    border-radius: 48%;
+    display: inline-block;
+}
+
+#loginBox button:hover {
+    background-color: #A91D3A;
+}

@@ -1,0 +1,16 @@
+{
+    "cart":[
+        {
+            "id":"1",
+            "image":"https://images.pexels.com/photos/1403389/pexels-photo-1403389.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "name":"Chair",
+            "price":"3999"
+        },
+        {
+            "id":"2",
+            "image":"https://images.pexels.com/photos/674580/pexels-photo-674580.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "name":"Window",
+            "price":"3243"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+.userordercontainer {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin:auto;
+    margin-top: 2rem;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.headordertag
+{
+    display: flex;
+    margin-bottom: 2rem;
+    align-items: center;
+}
+.orderhref:link    {color:#000;} 
+.orderhref:visited {color:#000;}  
+.orderhref:hover   {color:#000;}  
+.orderhref:active  {color:#000;}
+.myordertag
+{
+    margin-left: 20rem;
+}
+.myorder-items {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.orderheadertag
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.myorder-item {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.myorder-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.myorder-item-details {
+    display: flex;
+    flex-direction: column;
+}
+

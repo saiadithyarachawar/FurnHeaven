@@ -1,0 +1,27 @@
+.contactus
+{
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 65%;
+    height: 500px;
+    padding: 10px;
+    background-color: white;
+}
+h1{
+    text-align: "center";
+}
+.parent
+{
+    margin-top: 100px;
+    margin-left: 21%;
+    width: 60%;
+    height: 700px;
+    padding: 10px;
+    box-shadow: 0 0 20px 4px rgba(207, 207, 207, 0.3);
+    
+}
+.head
+{
+    font-size: 50px;
+
+}

@@ -1,0 +1,78 @@
+{
+    "orders" :[
+            {
+                "orderId" : "1",
+                "userId" : "vamshi-05",
+                "productName" : "chair",
+                "quantity" : "3",
+                "totalPrice" : "15000",
+                "status" : "ordered",
+                "price" : "5000",
+                "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair"
+            },
+            {
+                "orderId" : "2",
+                "userId" : "rakesh-05",
+                "productName" : "chair",
+                "quantity" : "3",
+                "totalPrice" : "15000",
+                "status" : "ordered",
+                "price" : "5000",
+                "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair"
+            },
+            {
+                "orderId" : "1",
+                "userId" : "praveen-05",
+                "productName" : "chair",
+                "quantity" : "3",
+                "totalPrice" : "15000",
+                "status" : "ordered",
+                "price" : "5000",
+                "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair"
+            },
+            {
+                "orderId" : "4",
+                "userId" : "praveen-05",
+                "productName" : "chair",
+                "quantity" : "3",
+                "totalPrice" : "15000",
+                "status" : "ordered",
+                "price" : "5000",
+                "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair"
+            },
+            {
+                "orderId" : "5",
+                "userId" : "praveen-05",
+                "productName" : "chair",
+                "quantity" : "3",
+                "totalPrice" : "15000",
+                "status" : "ordered",
+                "price" : "5000",
+                "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair"
+            }
+    ],
+
+    "products" :[
+        {
+            "productId" : "1",
+            "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "description" : "This is a chair",
+            "productName" : "chair",
+            "price" : "5000",
+            "quantity" : "10"
+        },
+        {
+            "productId" : "2",
+            "imageurl" : "https://www.nismaayadecor.in/cdn/shop/files/nismaaya-ivy-rattan-dining-chair_2.png?v=1691662665",
+            "productName" : "chair",
+            "price" : "5000",
+            "description" : "This is a chair",
+            "quantity" : "10"
+        }
+    ]
+}
